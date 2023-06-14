@@ -6,7 +6,7 @@
 
 I'm also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 -  
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/susmitha-premkumar-083755226
 
 <!---
 susmithapremkumar/susmithapremkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
