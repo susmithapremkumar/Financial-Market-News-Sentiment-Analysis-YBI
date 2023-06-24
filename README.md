@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @susmithapremkumar
+# **susmithA**  - 👋 Hi, I’m @susmithapremkumar
 - 👀 I’m interested in self-taught aspiring Python and Data Science
 - 🌱 I’m currently pursuing BE(computer science)-Final Year at Annamalai University
 - 💞️ I’m looking to collaborate on software lies with dreaming up ideas and making them come true with elegant interfaces.
